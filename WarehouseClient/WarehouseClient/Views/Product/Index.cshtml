@@ -1,0 +1,53 @@
+﻿@model IEnumerable<WarehouseClient.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h1>List of Products Available</h1>
+
+<p>
+    <a asp-action="Add">Add New Product</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductQuantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductCost)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductQuantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductCost)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.ProductId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ProductId}) |
+                @Html.ActionLink("Delete", "Delete", new {  id = item.ProductId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

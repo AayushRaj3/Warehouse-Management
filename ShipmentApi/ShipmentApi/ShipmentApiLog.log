@@ -1,0 +1,106 @@
+INFO  10:44:11 Application started. Press Ctrl+C to shut down.
+INFO  10:44:11 Application started. Press Ctrl+C to shut down.
+INFO  10:44:11 Hosting environment: Development
+INFO  10:44:11 Hosting environment: Development
+INFO  10:44:11 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  10:44:11 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  10:50:45 Application started. Press Ctrl+C to shut down.
+INFO  10:50:45 Application started. Press Ctrl+C to shut down.
+INFO  10:50:45 Hosting environment: Development
+INFO  10:50:45 Hosting environment: Development
+INFO  10:50:45 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  10:50:45 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  10:51:23 ShipmentController HttpGet 
+INFO  10:51:36 ShipmentController HttpGet by ID
+INFO  10:56:05 Application started. Press Ctrl+C to shut down.
+INFO  10:56:05 Application started. Press Ctrl+C to shut down.
+INFO  10:56:05 Hosting environment: Development
+INFO  10:56:05 Hosting environment: Development
+INFO  10:56:05 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  10:56:05 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  10:57:51 ShipmentController HttpGet 
+INFO  10:57:51 ShipmentController HttpGet 
+INFO  10:58:10 ShipmentController HttpGet by ID
+INFO  10:58:15 ShipmentController HttpGet 
+INFO  10:58:22 ShipmentController HttpGet 
+INFO  11:08:58 Application started. Press Ctrl+C to shut down.
+INFO  11:08:58 Application started. Press Ctrl+C to shut down.
+INFO  11:08:58 Hosting environment: Development
+INFO  11:08:58 Hosting environment: Development
+INFO  11:08:58 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  11:08:58 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  11:09:08 ShipmentController HttpGet 
+INFO  11:09:39 ShipmentController HttpGet 
+INFO  11:09:43 ShipmentController HttpGet 
+INFO  11:09:48 ShipmentController HttpGet 
+INFO  11:09:55 ShipmentController HttpGet 
+INFO  11:09:58 ShipmentController HttpGet 
+INFO  12:05:30 Application started. Press Ctrl+C to shut down.
+INFO  12:05:30 Application started. Press Ctrl+C to shut down.
+INFO  12:05:30 Hosting environment: Development
+INFO  12:05:30 Hosting environment: Development
+INFO  12:05:30 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  12:05:30 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  12:09:09 ShipmentController HttpGet 
+INFO  12:09:15 ShipmentController HttpGet by ID
+INFO  12:09:17 ShipmentController HttpGet 
+INFO  12:09:19 ShipmentController HttpGet by ID
+INFO  12:09:21 ShipmentController HttpGet 
+INFO  12:11:31 ShipmentController HttpGet 
+INFO  12:11:35 ShipmentController HttpGet 
+INFO  12:15:02 ShipmentController HttpGet 
+INFO  12:15:05 ShipmentController HttpGet by ID
+INFO  12:15:06 ShipmentController HttpGet 
+INFO  12:15:22 ShipmentController HttpGet 
+INFO  12:16:20 ShipmentController HttpPost 
+INFO  12:16:20 ShipmentController HttpGet 
+INFO  12:16:24 ShipmentController HttpGet by ID
+INFO  12:16:26 ShipmentController HttpGet 
+INFO  12:16:33 ShipmentController HttpGet 
+INFO  12:16:35 ShipmentController HttpDelete 
+INFO  12:16:35 ShipmentController HttpGet 
+INFO  12:17:00 ShipmentController HttpGet 
+INFO  12:33:49 Application started. Press Ctrl+C to shut down.
+INFO  12:33:49 Application started. Press Ctrl+C to shut down.
+INFO  12:33:49 Hosting environment: Development
+INFO  12:33:49 Hosting environment: Development
+INFO  12:33:49 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  12:33:49 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  12:35:42 ShipmentController HttpGet 
+INFO  12:36:14 ShipmentController HttpGet 
+INFO  12:36:43 ShipmentController HttpPost 
+INFO  12:36:44 ShipmentController HttpGet 
+INFO  12:36:53 ShipmentController HttpGet 
+INFO  12:36:55 ShipmentController HttpGet 
+INFO  12:36:55 ShipmentController HttpGet 
+INFO  12:37:09 ShipmentController HttpGet 
+INFO  12:37:24 ShipmentController HttpGet 
+INFO  12:37:28 ShipmentController HttpGet 
+INFO  12:37:30 ShipmentController HttpGet by ID
+INFO  12:37:36 ShipmentController HttpGet 
+INFO  09:34:20 Application started. Press Ctrl+C to shut down.
+INFO  09:34:20 Application started. Press Ctrl+C to shut down.
+INFO  09:34:20 Hosting environment: Development
+INFO  09:34:20 Hosting environment: Development
+INFO  09:34:20 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  09:34:20 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  09:34:30 ShipmentController HttpGet 
+INFO  09:36:02 ShipmentController HttpGet 
+INFO  09:36:05 ShipmentController HttpGet by ID
+INFO  09:36:08 ShipmentController HttpGet 
+INFO  06:39:41 Application started. Press Ctrl+C to shut down.
+INFO  06:39:41 Application started. Press Ctrl+C to shut down.
+INFO  06:39:41 Hosting environment: Development
+INFO  06:39:41 Hosting environment: Development
+INFO  06:39:41 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  06:39:41 Content root path: C:\Users\Aayush\source\repos\ShipmentApi\ShipmentApi
+INFO  06:44:07 ShipmentController HttpGet 
+INFO  06:44:29 ShipmentController HttpPost 
+INFO  06:44:31 ShipmentController HttpGet 
+INFO  06:44:41 ShipmentController HttpDelete 
+INFO  06:44:41 ShipmentController HttpGet 
+INFO  06:44:50 ShipmentController HttpGet 
+INFO  06:45:11 ShipmentController HttpPost 
+INFO  06:45:11 ShipmentController HttpGet 
+INFO  06:45:20 ShipmentController HttpGet by ID
+INFO  06:45:21 ShipmentController HttpGet 

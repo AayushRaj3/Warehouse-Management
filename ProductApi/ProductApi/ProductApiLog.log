@@ -1,0 +1,197 @@
+INFO  11:58:48 Application started. Press Ctrl+C to shut down.
+INFO  11:58:48 Application started. Press Ctrl+C to shut down.
+INFO  11:58:48 Hosting environment: Development
+INFO  11:58:48 Hosting environment: Development
+INFO  11:58:48 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  11:58:48 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  11:59:10 ProductController HttpGet 
+INFO  11:59:17 ProductController HttpGet By ID 
+INFO  11:59:20 ProductController HttpGet 
+INFO  11:59:22 ProductController HttpGet By ID 
+INFO  11:59:29 ProductController HttpPut 
+INFO  11:59:29 ProductController HttpGet 
+INFO  11:59:33 ProductController HttpGet By ID 
+INFO  11:59:36 ProductController HttpGet 
+INFO  11:59:42 ProductController HttpGet By ID 
+INFO  11:59:44 ProductController HttpGet 
+INFO  11:59:46 ProductController HttpDelete 
+INFO  11:59:46 ProductController HttpGet 
+INFO  11:59:49 ProductController HttpGet 
+INFO  11:59:58 ProductController HttpGet 
+INFO  12:00:02 ProductController HttpGet 
+INFO  12:09:06 ProductController HttpGet 
+INFO  12:09:39 ProductController HttpGet 
+INFO  12:11:27 ProductController HttpGet 
+INFO  12:11:33 ProductController HttpGet 
+INFO  12:13:44 ProductController HttpGet 
+INFO  12:14:05 ProductController HttpPost AddProduct 
+INFO  12:14:05 ProductController HttpGet 
+INFO  12:14:08 ProductController HttpGet By ID 
+INFO  12:14:11 ProductController HttpGet By ID 
+INFO  12:14:26 ProductController HttpGet 
+INFO  12:14:30 ProductController HttpGet By ID 
+INFO  12:14:34 ProductController HttpPut 
+INFO  12:14:34 ProductController HttpGet 
+INFO  12:14:38 ProductController HttpGet By ID 
+INFO  12:14:40 ProductController HttpGet By ID 
+INFO  12:14:44 ProductController HttpPut 
+INFO  12:14:44 ProductController HttpGet 
+INFO  12:14:46 ProductController HttpDelete 
+INFO  12:14:46 ProductController HttpGet 
+INFO  12:14:55 ProductController HttpGet 
+INFO  12:15:15 ProductController HttpGet 
+INFO  12:16:28 ProductController HttpGet 
+INFO  12:34:06 Application started. Press Ctrl+C to shut down.
+INFO  12:34:06 Application started. Press Ctrl+C to shut down.
+INFO  12:34:06 Hosting environment: Development
+INFO  12:34:06 Hosting environment: Development
+INFO  12:34:06 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  12:34:06 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  12:35:02 ProductController HttpGet 
+INFO  12:35:36 ProductController HttpGet 
+INFO  12:35:49 ProductController HttpGet 
+INFO  12:35:55 ProductController HttpGet By ID 
+INFO  12:36:01 ProductController HttpPut 
+INFO  12:36:01 ProductController HttpGet 
+INFO  12:36:05 ProductController HttpGet By ID 
+INFO  12:36:10 ProductController HttpPut 
+INFO  12:36:10 ProductController HttpGet 
+INFO  12:37:04 ProductController HttpGet 
+INFO  12:37:10 ProductController HttpGet 
+INFO  12:37:17 ProductController HttpGet 
+INFO  12:37:40 ProductController HttpGet 
+INFO  05:53:00 Application started. Press Ctrl+C to shut down.
+INFO  05:53:00 Application started. Press Ctrl+C to shut down.
+INFO  05:53:00 Hosting environment: Development
+INFO  05:53:00 Hosting environment: Development
+INFO  05:53:00 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  05:53:00 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  05:53:11 ProductController HttpGet 
+INFO  05:54:19 ProductController HttpGet By ID 
+INFO  06:08:54 Application started. Press Ctrl+C to shut down.
+INFO  06:08:54 Application started. Press Ctrl+C to shut down.
+INFO  06:08:54 Hosting environment: Development
+INFO  06:08:54 Hosting environment: Development
+INFO  06:08:54 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  06:08:54 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  06:09:00 ProductController HttpGet 
+INFO  08:11:09 Application started. Press Ctrl+C to shut down.
+INFO  08:11:09 Application started. Press Ctrl+C to shut down.
+INFO  08:11:09 Hosting environment: Development
+INFO  08:11:09 Hosting environment: Development
+INFO  08:11:09 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  08:11:09 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  09:31:36 Application started. Press Ctrl+C to shut down.
+INFO  09:31:36 Application started. Press Ctrl+C to shut down.
+INFO  09:31:36 Hosting environment: Development
+INFO  09:31:36 Hosting environment: Development
+INFO  09:31:36 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  09:31:36 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  09:31:57 ProductController HttpGet 
+INFO  09:35:25 ProductController HttpGet 
+INFO  09:35:33 ProductController HttpGet By ID 
+INFO  09:35:36 ProductController HttpGet 
+INFO  09:35:38 ProductController HttpGet By ID 
+INFO  09:35:41 ProductController HttpGet 
+INFO  09:35:43 ProductController HttpGet By ID 
+INFO  09:35:45 ProductController HttpGet 
+INFO  09:35:51 ProductController HttpGet 
+INFO  09:36:09 ProductController HttpGet 
+INFO  09:36:11 ProductController HttpGet By ID 
+INFO  09:36:53 ProductController HttpGet By ID 
+INFO  09:39:39 Application started. Press Ctrl+C to shut down.
+INFO  09:39:39 Application started. Press Ctrl+C to shut down.
+INFO  09:39:39 Hosting environment: Development
+INFO  09:39:39 Hosting environment: Development
+INFO  09:39:39 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  09:39:39 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  09:45:29 Application started. Press Ctrl+C to shut down.
+INFO  09:45:29 Application started. Press Ctrl+C to shut down.
+INFO  09:45:29 Hosting environment: Development
+INFO  09:45:29 Hosting environment: Development
+INFO  09:45:29 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  09:45:29 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  09:45:41 ProductController HttpGet By ID 
+INFO  10:14:30 Application started. Press Ctrl+C to shut down.
+INFO  10:14:30 Application started. Press Ctrl+C to shut down.
+INFO  10:14:30 Hosting environment: Development
+INFO  10:14:30 Hosting environment: Development
+INFO  10:14:30 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  10:14:30 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  10:15:50 ProductController HttpGet 
+INFO  10:16:37 ProductController HttpPost AddProduct 
+INFO  10:16:42 ProductController HttpGet 
+INFO  10:18:19 ProductController HttpGet By ID 
+INFO  08:16:02 Application started. Press Ctrl+C to shut down.
+INFO  08:16:02 Application started. Press Ctrl+C to shut down.
+INFO  08:16:02 Hosting environment: Development
+INFO  08:16:02 Hosting environment: Development
+INFO  08:16:02 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  08:16:02 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  08:16:14 ProductController HttpGet By ID 
+INFO  08:26:40 Application started. Press Ctrl+C to shut down.
+INFO  08:26:40 Application started. Press Ctrl+C to shut down.
+INFO  08:26:40 Hosting environment: Development
+INFO  08:26:40 Hosting environment: Development
+INFO  08:26:40 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  08:26:40 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  08:26:48 ProductController HttpGet 
+INFO  08:29:08 ProductController HttpGet 
+INFO  08:29:12 ProductController HttpGet By ID 
+INFO  08:29:15 ProductController HttpGet 
+INFO  08:29:16 ProductController HttpGet By ID 
+INFO  08:29:19 ProductController HttpGet 
+INFO  08:29:23 ProductController HttpDelete 
+INFO  08:29:23 ProductController HttpGet 
+INFO  08:29:28 ProductController HttpGet 
+INFO  08:30:31 ProductController HttpGet By ID 
+INFO  08:30:32 ProductController HttpGet 
+INFO  08:30:34 ProductController HttpGet By ID 
+INFO  08:30:36 ProductController HttpGet By ID 
+INFO  08:30:43 ProductController HttpPut 
+INFO  08:30:43 ProductController HttpGet 
+INFO  08:30:47 ProductController HttpGet By ID 
+INFO  08:30:51 ProductController HttpPut 
+INFO  08:30:51 ProductController HttpGet 
+INFO  08:30:54 ProductController HttpGet By ID 
+INFO  08:30:57 ProductController HttpGet By ID 
+INFO  08:31:04 ProductController HttpPut 
+INFO  08:31:04 ProductController HttpGet 
+INFO  08:31:09 ProductController HttpGet By ID 
+INFO  08:31:14 ProductController HttpPut 
+INFO  08:31:14 ProductController HttpGet 
+INFO  08:38:42 Application started. Press Ctrl+C to shut down.
+INFO  08:38:42 Application started. Press Ctrl+C to shut down.
+INFO  08:38:42 Hosting environment: Development
+INFO  08:38:42 Hosting environment: Development
+INFO  08:38:42 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  08:38:42 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  08:38:54 ProductController HttpGet By ID 
+INFO  01:56:26 Application started. Press Ctrl+C to shut down.
+INFO  01:56:26 Application started. Press Ctrl+C to shut down.
+INFO  01:56:26 Hosting environment: Development
+INFO  01:56:26 Hosting environment: Development
+INFO  01:56:26 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  01:56:26 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  01:56:41 ProductController HttpGet 
+INFO  01:57:58 ProductController HttpGet 
+INFO  01:58:02 ProductController HttpGet By ID 
+INFO  01:58:05 ProductController HttpGet 
+INFO  01:58:06 ProductController HttpGet By ID 
+INFO  01:58:09 ProductController HttpGet By ID 
+INFO  01:58:11 ProductController HttpGet 
+INFO  01:58:35 ProductController HttpGet 
+INFO  01:59:09 ProductController HttpGet 
+INFO  06:37:08 Application started. Press Ctrl+C to shut down.
+INFO  06:37:08 Application started. Press Ctrl+C to shut down.
+INFO  06:37:08 Hosting environment: Development
+INFO  06:37:08 Hosting environment: Development
+INFO  06:37:08 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  06:37:08 Content root path: C:\Users\Aayush\source\repos\ProductApi\ProductApi
+INFO  06:42:20 ProductController HttpGet 
+INFO  06:42:28 ProductController HttpGet By ID 
+INFO  06:42:33 ProductController HttpGet 
+INFO  06:42:35 ProductController HttpGet By ID 
+INFO  06:42:41 ProductController HttpPut 
+INFO  06:42:41 ProductController HttpGet 
+INFO  06:44:43 ProductController HttpGet 

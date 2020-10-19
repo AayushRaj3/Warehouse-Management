@@ -1,0 +1,9 @@
+INFO  07:10:39 Application started. Press Ctrl+C to shut down.
+INFO  07:10:39 Application started. Press Ctrl+C to shut down.
+INFO  07:10:39 Hosting environment: Development
+INFO  07:10:39 Hosting environment: Development
+INFO  07:10:39 Content root path: C:\Users\Aayush\source\repos\AuthenticationApi\AuthenticationApi
+INFO  07:10:39 Content root path: C:\Users\Aayush\source\repos\AuthenticationApi\AuthenticationApi
+INFO  07:11:14 TokenController HttpPost Login Initiated 
+INFO  07:11:17 TokenController Correct Credentials 
+INFO  07:11:17 TokenController Generating JSON Token 

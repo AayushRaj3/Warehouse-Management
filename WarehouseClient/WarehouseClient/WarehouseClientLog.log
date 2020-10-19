@@ -1,0 +1,167 @@
+INFO  11:42:33 Application started. Press Ctrl+C to shut down.
+INFO  11:42:33 Application started. Press Ctrl+C to shut down.
+INFO  11:42:33 Hosting environment: Development
+INFO  11:42:33 Hosting environment: Development
+INFO  11:42:33 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  11:42:33 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+ERROR 11:45:28 The view 'Details' was not found. Searched locations: /Views/Seller/Details.cshtml, /Views/Shared/Details.cshtml
+ERROR 11:45:28 The view 'Details' was not found. Searched locations: /Views/Seller/Details.cshtml, /Views/Shared/Details.cshtml
+ERROR 11:45:28 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'Details' was not found. The following locations were searched:
+/Views/Seller/Details.cshtml
+/Views/Shared/Details.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:45:28 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'Details' was not found. The following locations were searched:
+/Views/Seller/Details.cshtml
+/Views/Shared/Details.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  11:45:52 Application started. Press Ctrl+C to shut down.
+INFO  11:45:52 Application started. Press Ctrl+C to shut down.
+INFO  11:45:52 Hosting environment: Development
+INFO  11:45:52 Hosting environment: Development
+INFO  11:45:52 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  11:45:52 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+ERROR 11:46:13 The view 'Details' was not found. Searched locations: /Views/Seller/Details.cshtml, /Views/Shared/Details.cshtml
+ERROR 11:46:13 The view 'Details' was not found. Searched locations: /Views/Seller/Details.cshtml, /Views/Shared/Details.cshtml
+ERROR 11:46:13 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'Details' was not found. The following locations were searched:
+/Views/Seller/Details.cshtml
+/Views/Shared/Details.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:46:13 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'Details' was not found. The following locations were searched:
+/Views/Seller/Details.cshtml
+/Views/Shared/Details.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  11:49:44 Application started. Press Ctrl+C to shut down.
+INFO  11:49:44 Application started. Press Ctrl+C to shut down.
+INFO  11:49:44 Hosting environment: Development
+INFO  11:49:44 Hosting environment: Development
+INFO  11:49:44 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  11:49:44 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  11:57:57 Application started. Press Ctrl+C to shut down.
+INFO  11:57:58 Application started. Press Ctrl+C to shut down.
+INFO  11:57:58 Hosting environment: Development
+INFO  11:57:58 Hosting environment: Development
+INFO  11:57:58 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  11:57:58 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  12:25:11 Application started. Press Ctrl+C to shut down.
+INFO  12:25:11 Application started. Press Ctrl+C to shut down.
+INFO  12:25:11 Hosting environment: Development
+INFO  12:25:11 Hosting environment: Development
+INFO  12:25:11 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  12:25:11 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  12:26:38 Application started. Press Ctrl+C to shut down.
+INFO  12:26:38 Application started. Press Ctrl+C to shut down.
+INFO  12:26:38 Hosting environment: Development
+INFO  12:26:38 Hosting environment: Development
+INFO  12:26:38 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  12:26:38 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  12:35:01 Application started. Press Ctrl+C to shut down.
+INFO  12:35:01 Application started. Press Ctrl+C to shut down.
+INFO  12:35:01 Hosting environment: Development
+INFO  12:35:01 Hosting environment: Development
+INFO  12:35:01 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  12:35:01 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  09:35:23 Application started. Press Ctrl+C to shut down.
+INFO  09:35:23 Application started. Press Ctrl+C to shut down.
+INFO  09:35:23 Hosting environment: Development
+INFO  09:35:23 Hosting environment: Development
+INFO  09:35:23 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  09:35:23 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  10:03:38 Application started. Press Ctrl+C to shut down.
+INFO  10:03:38 Application started. Press Ctrl+C to shut down.
+INFO  10:03:38 Hosting environment: Development
+INFO  10:03:38 Hosting environment: Development
+INFO  10:03:38 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  10:03:38 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  07:17:40 Application started. Press Ctrl+C to shut down.
+INFO  07:17:40 Application started. Press Ctrl+C to shut down.
+INFO  07:17:40 Hosting environment: Development
+INFO  07:17:40 Hosting environment: Development
+INFO  07:17:40 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  07:17:40 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  07:17:40 LoginController HttpGet Login Page
+INFO  07:23:31 Application started. Press Ctrl+C to shut down.
+INFO  07:23:31 Application started. Press Ctrl+C to shut down.
+INFO  07:23:31 Hosting environment: Development
+INFO  07:23:31 Hosting environment: Development
+INFO  07:23:31 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  07:23:31 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  07:23:31 LoginController HttpGet Login Page
+INFO  07:23:34 SellerController List of Sellers
+INFO  07:32:38 Application started. Press Ctrl+C to shut down.
+INFO  07:32:38 Application started. Press Ctrl+C to shut down.
+INFO  07:32:38 Hosting environment: Development
+INFO  07:32:38 Hosting environment: Development
+INFO  07:32:38 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  07:32:38 Content root path: C:\Users\Aayush\source\repos\WarehouseClient\WarehouseClient
+INFO  07:32:38 LoginController HttpGet Login Page
+INFO  07:32:42 ProductController List of Product Successfull
+INFO  07:32:46 ProductController List of Product Failed
+INFO  07:32:49 LoginController HttpGet Login Page
+INFO  07:32:50 SellerController List of Sellers
+INFO  07:32:57 LoginController HttpGet Login Page
+INFO  07:32:58 ShipmentController List of Shipment Successfull
+INFO  07:33:03 ShipmentController List of Shipment Failed

@@ -1,0 +1,166 @@
+INFO  11:14:11 Application started. Press Ctrl+C to shut down.
+INFO  11:14:11 Application started. Press Ctrl+C to shut down.
+INFO  11:14:11 Hosting environment: Development
+INFO  11:14:11 Hosting environment: Development
+INFO  11:14:11 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  11:14:11 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  11:00:56 Application started. Press Ctrl+C to shut down.
+INFO  11:00:56 Application started. Press Ctrl+C to shut down.
+INFO  11:00:56 Hosting environment: Development
+INFO  11:00:56 Hosting environment: Development
+INFO  11:00:56 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  11:00:56 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  11:01:35 SellerController HttpGet 
+INFO  11:03:49 Application started. Press Ctrl+C to shut down.
+INFO  11:03:49 Application started. Press Ctrl+C to shut down.
+INFO  11:03:49 Hosting environment: Development
+INFO  11:03:49 Hosting environment: Development
+INFO  11:03:49 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  11:03:49 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  11:04:05 SellerController HttpGet 
+INFO  11:05:13 SellerController HttpGet 
+INFO  11:09:37 SellerController HttpGet 
+INFO  11:09:41 SellerController HttpGet 
+INFO  11:09:44 SellerController HttpGet 
+INFO  11:09:53 SellerController HttpGet 
+INFO  11:09:57 SellerController HttpGet 
+INFO  11:10:02 SellerController HttpGet 
+INFO  11:41:27 Application started. Press Ctrl+C to shut down.
+INFO  11:41:27 Application started. Press Ctrl+C to shut down.
+INFO  11:41:27 Hosting environment: Development
+INFO  11:41:27 Hosting environment: Development
+INFO  11:41:27 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  11:41:27 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  11:41:57 SellerController HttpGet 
+INFO  11:45:22 SellerController HttpGet 
+INFO  11:45:27 SellerController HttpGet By Id 
+INFO  11:46:10 SellerController HttpGet 
+INFO  11:46:13 SellerController HttpGet By Id 
+INFO  11:50:00 SellerController HttpGet 
+INFO  11:50:04 SellerController HttpGet By Id 
+INFO  11:50:08 SellerController HttpGet 
+INFO  11:50:10 SellerController HttpGet By Id 
+INFO  11:50:11 SellerController HttpGet 
+INFO  11:50:13 SellerController HttpGet By Id 
+INFO  11:50:15 SellerController HttpGet 
+INFO  11:58:11 SellerController HttpGet 
+INFO  11:58:16 SellerController HttpGet By Id 
+INFO  11:58:18 SellerController HttpGet 
+INFO  11:59:07 SellerController HttpGet 
+INFO  11:59:52 SellerController HttpGet 
+INFO  11:59:54 SellerController HttpGet By Id 
+INFO  11:59:56 SellerController HttpGet 
+INFO  12:00:00 SellerController HttpGet 
+INFO  12:00:03 SellerController HttpGet 
+INFO  12:09:04 SellerController HttpGet 
+INFO  12:09:23 SellerController HttpGet 
+INFO  12:09:25 SellerController HttpGet By Id 
+INFO  12:09:27 SellerController HttpGet 
+INFO  12:09:34 SellerController HttpGet By Id 
+INFO  12:09:35 SellerController HttpGet 
+INFO  12:11:29 SellerController HttpGet 
+INFO  12:11:32 SellerController HttpGet 
+INFO  12:14:51 SellerController HttpGet 
+INFO  12:14:56 SellerController HttpGet 
+INFO  12:15:10 SellerController HttpGet 
+INFO  12:16:37 SellerController HttpGet 
+INFO  12:16:39 SellerController HttpGet By Id 
+INFO  12:16:40 SellerController HttpGet 
+INFO  12:16:55 SellerController HttpDelete 
+INFO  12:16:55 SellerController HttpGet 
+INFO  12:17:09 SellerController HttpGet 
+INFO  12:22:56 Application started. Press Ctrl+C to shut down.
+INFO  12:22:56 Application started. Press Ctrl+C to shut down.
+INFO  12:22:56 Hosting environment: Development
+INFO  12:22:56 Hosting environment: Development
+INFO  12:22:56 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  12:22:56 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  12:25:38 SellerController HttpGet 
+INFO  12:25:47 SellerController HttpGet By Id 
+INFO  12:25:49 SellerController HttpGet 
+INFO  12:25:51 SellerController HttpGet By Id 
+INFO  12:25:52 SellerController HttpGet 
+INFO  12:26:08 SellerController HttpGet 
+INFO  12:26:49 SellerController HttpGet 
+INFO  12:26:56 SellerController HttpGet 
+INFO  12:27:05 SellerController HttpGet 
+INFO  12:27:40 SellerController HttpPost 
+INFO  12:27:40 SellerController HttpGet 
+INFO  12:34:39 Application started. Press Ctrl+C to shut down.
+INFO  12:34:39 Application started. Press Ctrl+C to shut down.
+INFO  12:34:39 Hosting environment: Development
+INFO  12:34:39 Hosting environment: Development
+INFO  12:34:39 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  12:34:39 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  12:35:38 SellerController HttpGet 
+INFO  12:35:46 SellerController HttpGet 
+INFO  12:37:02 SellerController HttpGet 
+INFO  12:37:07 SellerController HttpGet 
+INFO  12:37:18 SellerController HttpGet 
+INFO  12:37:22 SellerController HttpGet 
+INFO  06:35:35 Application started. Press Ctrl+C to shut down.
+INFO  06:35:35 Application started. Press Ctrl+C to shut down.
+INFO  06:35:35 Hosting environment: Development
+INFO  06:35:35 Hosting environment: Development
+INFO  06:35:35 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  06:35:35 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  06:35:47 SellerController HttpGet 
+INFO  06:36:03 SellerController HttpGet By Id 
+INFO  09:32:59 Application started. Press Ctrl+C to shut down.
+INFO  09:32:59 Application started. Press Ctrl+C to shut down.
+INFO  09:32:59 Hosting environment: Development
+INFO  09:32:59 Hosting environment: Development
+INFO  09:32:59 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  09:32:59 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  09:33:08 SellerController HttpGet 
+INFO  09:35:54 SellerController HttpGet 
+INFO  09:35:56 SellerController HttpGet By Id 
+INFO  09:35:59 SellerController HttpGet 
+INFO  09:52:36 Application started. Press Ctrl+C to shut down.
+INFO  09:52:36 Application started. Press Ctrl+C to shut down.
+INFO  09:52:36 Hosting environment: Development
+INFO  09:52:36 Hosting environment: Development
+INFO  09:52:36 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  09:52:36 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  09:52:44 SellerController HttpGet 
+INFO  09:52:58 SellerController HttpGet By Id 
+INFO  10:01:25 Application started. Press Ctrl+C to shut down.
+INFO  10:01:26 Application started. Press Ctrl+C to shut down.
+INFO  10:01:26 Hosting environment: Development
+INFO  10:01:26 Hosting environment: Development
+INFO  10:01:26 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  10:01:26 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  10:02:03 SellerController HttpGet By Id 
+INFO  10:04:15 SellerController HttpGet 
+INFO  10:04:22 SellerController HttpGet By Id 
+INFO  10:04:25 SellerController HttpGet 
+INFO  10:04:26 SellerController HttpGet By Id 
+INFO  10:04:32 SellerController HttpGet 
+INFO  10:04:42 SellerController HttpGet By Id 
+INFO  10:04:43 SellerController HttpGet 
+INFO  10:04:45 SellerController HttpGet By Id 
+INFO  11:58:58 Application started. Press Ctrl+C to shut down.
+INFO  11:58:58 Application started. Press Ctrl+C to shut down.
+INFO  11:58:58 Hosting environment: Development
+INFO  11:58:58 Hosting environment: Development
+INFO  11:58:58 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  11:58:58 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  12:00:21 SellerController HttpGet 
+INFO  12:02:06 SellerController HttpGet By Id 
+INFO  12:02:08 SellerController HttpGet 
+INFO  12:02:40 SellerController HttpPost 
+INFO  12:02:41 SellerController HttpGet 
+INFO  12:02:46 SellerController HttpDelete 
+INFO  12:02:46 SellerController HttpGet 
+INFO  06:38:37 Application started. Press Ctrl+C to shut down.
+INFO  06:38:37 Application started. Press Ctrl+C to shut down.
+INFO  06:38:37 Hosting environment: Development
+INFO  06:38:37 Hosting environment: Development
+INFO  06:38:37 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  06:38:37 Content root path: C:\Users\Aayush\source\repos\SellerApi\SellerApi
+INFO  06:42:59 SellerController HttpGet 
+INFO  06:43:11 SellerController HttpGet By Id 
+INFO  06:43:13 SellerController HttpGet 
+INFO  06:43:17 SellerController HttpGet 
+INFO  06:43:58 SellerController HttpPost 
+INFO  06:43:59 SellerController HttpGet 
